@@ -1,5 +1,7 @@
 # ʕ •́؈•̀) `worker-typescript-template`
 
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/pprenghy/cloudflare-workers-hello-world)
+
 A batteries included template for kick starting a TypeScript Cloudflare worker project.
 
 ## Note: You must use [wrangler](https://developers.cloudflare.com/workers/cli-wrangler/install-update) 1.17 or newer to use this template.
